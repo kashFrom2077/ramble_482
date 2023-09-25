@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dosis:wght@500;600;700;800&family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .navbar-brand img {
+            max-width: 500px;
+            height: auto;
+        }
+
+        .navbar-brand {
+            font-family: 'Kdam Thmor Pro', sans-serif;
+        }
+
+        .navbar-nav .nav-link {
+            font-family: 'Kdam Thmor Pro', sans-serif;
+        }
+
+        .bg-image {
+            height: 100%;
+            width: 100%;
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+            background-color: #464646;
+        }
+
+        .writing {
+            color: white;
+            /* padding-top: 5%; */
+            padding-left: 5%;
+            padding-right: 5%;
+            margin-top: 12%;
+            margin-bottom: 15%;
+            margin-left: 15%;
+            margin-right: 15%;
+            border: 1px solid white;
+            background-color: rgba(0, 0, 0, 0.6);
+
+        }
+
+        .writing h1,
+        h4 {
+            font-family: 'Kdam Thmor Pro', sans-serif;
+            text-align: center;
+            margin-top: 5%;
+            margin-bottom: 5%;
+        }
+
+        .writing h5 {
+            font-family: 'Courier New', Courier, monospace;
+            margin-bottom: 10%;
+        }

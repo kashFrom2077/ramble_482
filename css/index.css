@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+
+  .navbar-brand img {
+    max-width: 500px;
+    /* Adjust the max width as needed */
+    height: auto;
+    /* Maintain aspect ratio */
+  }
+
+  .navbar-brand {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+  }
+
+  .navbar-nav .nav-link {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+  }
